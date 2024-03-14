@@ -1,4 +1,4 @@
-# [English version 🇬🇧](https://github.com/kiryu-victor#hi-there) || [Versión en español 🇪🇸](https://github.com/kiryu-victor#hola)
+# [English version 🇬🇧](https://github.com/kiryu-victor#hi-there-) || [Versión en español 🇪🇸](https://github.com/kiryu-victor#hola-)
 
 ## Hi there 👋
 This is Victor (aka Kiryu).
