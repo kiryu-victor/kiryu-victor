@@ -13,26 +13,29 @@ Also, so you can track my improvements and check what might be applied in every 
 Also, don't worry if in the Spanish section you see that this list is longer: there are some things that don't involve skills by themselve, but knowledge from the matter. Let's take the example of 'empresa e iniciativa emprendedora' (should be on the third year but it's not on the list): this module is more about how to keep updated, get ideas and spot great oportunities either when you are your own boss or you are another worker in the line.
 
 #### First year:
-- HTML, CSS and XML
+- HTML, CSS and XML. XML Schema
 - Programming, with Java
 - Development environments (I guess I can translate this to IDEs?)
+  - Debugging. Testing with JUnit
+  - Refactoring.
+  - UML. I'm getting my way to understand them better with examples and practice cases
 - Basic hardware and commands (both Win and Linux), Windows and Linux permissions...
 
 #### Second year:
 - Databases
-  - Probably PL/SQL for what I've heard from the teachers
+  - Probably MySQL for what I've heard from the teachers
   - More info to come
 - Access to data
-  - Presumably using Java
   - More info to come
 - Interface development
+  - Using JavaScript for what I've heard recently
   - More info to come
 - English
   - Yes, the very language I'm writing in right now, but as you all know it is ~~almost~~ a MUST
 
 #### Third year:
 - *Multimedia programming and mobile devices*
-  - *Android Studio with Java and maybe Unity with C#?*
+  - *Android Studio with Java and maybe Unity with C#? Also, Kotlin*
   - More info to come
 - *Programming of services and processes*
   - *Multithreading and multiprocess programming, programming using secure techniques...*
@@ -62,17 +65,23 @@ Para que podáis seguir el recorrido por el que voy pasando y verificar qué pue
   - HTML, CSS y XML
 - Programación, aprendiendo con Java
 - Entornos de desarrollo
+  - Debugging. Pruebas con JUnit
+  - Refactorización
+  - UML. Sigo practicando con ejemplos y ejercicios para entenderlo mejor.
 - Sistemas informáticos
 
 ### Segundo año
 - Acceso de datos
 - Bases de datos
+  - MySQL hasta donde sabemos
 - Desarrollo de interfaces
+  - Usando JavaScript
 - Inglés
 - Formación y orientación laboral
 
 ### Tercer año
 - Programación multimedia y dispositivos móviles
+  - Kotlin, Android Studio y otros que añun no sabemos
 - Sistemas de gestión empresarial
 - Programación de servicios y prcesos
 - Proyecto de desarrolo de aplicaciones multiplataforma
