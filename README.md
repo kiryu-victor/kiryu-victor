@@ -59,6 +59,7 @@ Also, so you can track my improvements and check what might be applied in every 
   - I don't know if they will force us to use Java, as it is the core programming language we've seen so far, or if they will let us use any other.
  
 On the self-taught side of things, I'll be trying to post some other projects too, either in Java, because it's what we are using on class right now, or in other languages like C#, Python or any other that I find myself learning and using in a future.
+
 Update: started with Python and taking the first steps with Django. This has also lead me to learn about Bootstrap. For improving with those I will be creating some projects soon.
 
 But for now, this is still a work in progress and it will be updated every time I make a change. I will also try to keep the best order possible so everything is easy to find and in reach, but this is all susceptible to changes in the future. Who knows: maybe I could organize it all better, or find that some things are better in other way for the people to see if anyone is interested. Again: for now take all you see here with a pinch of salt.
@@ -113,6 +114,7 @@ Para que podáis seguir el recorrido por el que voy pasando y verificar qué pue
 - Formación en centros de trabajo
 
 Ahora bien, en la lado autodidacta voy a seguir subiendo repositorios y proyectos, ya sea en Java dado que es el lenguaje en el que aprendemos a programar en el curso, o en algún otro como C#, Python, o el que me vea aprendiendo para su uso en un futuro.
+
 Update: empecé con Python y di mis primeros pasos con Django. Esto me ha llevado a aprender Bootstrap también. Para ir mejorando con ellos iré creando proyectos dentro de poco.
 
 Pero por ahora todo esto está en proceso y se irá actualizando poco a poco con cada cambio que realice. Intentaré organizarlo de la mejor manera posible, aunque es susceptible de cambios, ya sea porque la organización no era buena o porque es más fácil para los demás encontrar lo que quieren. Así que de momento cogedlo todo con pinzas.
