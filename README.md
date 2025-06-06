@@ -13,18 +13,18 @@ Also, so you can track my improvements and check what might be applied in every 
 
 ### :heavy_check_mark: First year (ended on 06-2024):
 - HTML, CSS and XML
-- Programming, with Java (using just the IDE's console)
+- Programming, with Java (using the IDE's console)
 - Development environments (I guess I can translate this to IDEs?)
   - Debugging
   - Testing with JUnit
   - Refactoring
-  - UML. I'm getting my way to understand them better with examples and practice cases
+  - UML
 - Systems
   - Basic Windows and Linux system administration
   - IP adresses (how they work and subnetting)
   - Network administration on Windows and Linux
 
-### Second year:
+### :heavy_check_mark: Second year (ended on 06-2024):
 - Databases (DB)
   - Relational DB modeling
   - MySQL and Oracle DB
@@ -34,13 +34,12 @@ Also, so you can track my improvements and check what might be applied in every 
   - Persistance with JPA
   - Use of Hibernate ORM
 - Interface development
-  - :x: Using JavaScript for what I've heard recently
-  - Using Java on NetBeans for the GUI
+  - NetBeans for GUI design for Java
   - Implementation of the MVC pattern
   - Component creation (i.e. creating a table which takes data from a DB)
 - English
   - Yes, the very language I'm writing in right now, but as you all know it is ~~almost~~ a MUST
-  - It was supposed to be technical but...
+  
 
 ### Third year:
 - *Multimedia programming and mobile devices*
@@ -87,7 +86,7 @@ Para que podáis seguir el recorrido por el que voy pasando y verificar qué pue
   - Direccionamiento IP
   - Administración de redes Windows y Linux
 
-### Segundo año
+### :heavy_check_mark: Segundo año (terminado en 06-2024):
 - Bases de datos
   - Modelado de DB relacionales
   - MySQL y Oracle DB
@@ -97,8 +96,7 @@ Para que podáis seguir el recorrido por el que voy pasando y verificar qué pue
   - Persistencia con JPA
   - Uso de Hibernate ORM
 - Desarrollo de interfaces
-  - :x: Uso de JavaScript
-  - Uso de NetBeans para la creación de GUI  para Java
+  - Uso de NetBeans para la creación de GUI para Java
   - Implementación del patrón MVC
   - Creación de componentes (ej. crear una tabla sobre la que se vuelcan datos de una DB)
 - Inglés
