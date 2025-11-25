@@ -13,8 +13,8 @@ Also, so you can track my improvements and check what might be applied in every 
 
 ### :heavy_check_mark: First year (ended on 06-2024):
 - HTML, CSS and XML
-- Programming, with Java (using the IDE's console)
-- Development environments (I guess I can translate this to IDEs?)
+- Java
+- IDEs
   - Debugging
   - Testing with JUnit
   - Refactoring
@@ -29,33 +29,36 @@ Also, so you can track my improvements and check what might be applied in every 
   - Relational DB modeling
   - MySQL and Oracle DB
   - Use of PL/SQL
-- Access to data
+- Data access
   - Connection to DB
   - Persistance with JPA
   - Use of Hibernate ORM
 - Interface development
   - NetBeans for GUI design for Java
-  - Implementation of the MVC pattern
+  - Patterns implementation
   - Component creation (i.e. creating a table which takes data from a DB)
 - English
-  - Yes, the very language I'm writing in right now, but as you all know it is ~~almost~~ a MUST
-  
+  - Yes, the very language I'm writing in right now, but as you all know it is a MUST  
 
 ### Third year:
 - *Multimedia programming and mobile devices*
-  - *Android Studio and maybe Unity with C#? Probably some Kotlin*
+  - ~~*Android Studio and maybe Unity with C#? Probably some Kotlin*~~
+  - React Native with Expo
+  - Initiation to programming in Unity
   - More info to come
 - *Programming of services and processes*
-  - *Multithreading and multiprocess programming, programming using secure techniques...*
-  - More info to come
+  - Multithreading and multiprocess programming
+  - Programming using secure techniques...
 - Business management systems
-  - *For what I know so far: ERP-CRM*
-  - More info to come
+  - ERP-CRM with Odoo.
+  - Odoo modules creation with Python.
 - Practice in a job environment
   - I think it reflect the idea better than 'Job environment practice'
 - End of studies project
-  - I have no idea what they will ask us to do in specific, but I guess it's going to be a project involving all we've learnt so far and its corresponding report and documentation
-  - I don't know if they will force us to use Java, as it is the core programming language we've seen so far, or if they will let us use any other.
+  - I have no idea what they will ask us to do in specific, but I guess it's going to be a project involving all we've learnt so far and its corresponding report and documentation.
+  - ~~I don't know if they will force us to use Java, as it is the core programming language we've seen so far, or if they will let us use any other.~~
+  - It will be done in React Native.
+  - More info to come.
  
 On the self-taught side of things, I'll be trying to post some other projects too, either in Java, because it's what we are using on class right now, or in other languages like C#, Python or any other that I find myself learning and using in a future.
 
@@ -75,7 +78,8 @@ Para que podáis seguir el recorrido por el que voy pasando y verificar qué pue
 ### :heavy_check_mark: Primer año (terminado en 06-2024): 
 - Lenguaje de marcas y sistemas de gestión de la información
   - HTML, CSS y XML
-- Programación, aprendiendo con Java (todo por consola)
+- Programación
+  - Java
 - Entornos de desarrollo
   - Debugging
   - Pruebas con JUnit
@@ -97,19 +101,26 @@ Para que podáis seguir el recorrido por el que voy pasando y verificar qué pue
   - Uso de Hibernate ORM
 - Desarrollo de interfaces
   - Uso de NetBeans para la creación de GUI para Java
-  - Implementación del patrón MVC
+  - Implementación del patrones de diseño
   - Creación de componentes (ej. crear una tabla sobre la que se vuelcan datos de una DB)
 - Inglés
 - Formación y orientación laboral
 
 ### Tercer año
 - Programación multimedia y dispositivos móviles
-  - Kotlin, Android Studio y otros que aún no sabemos
+  - ~~Kotlin, Android Studio y otros que aún no sabemos~~
+  - React Native con Expo
+  - Iniciación a programación en Unity
+  - Más info en un futuro
 - Sistemas de gestión empresarial
+  - ERP-CRM con Odoo
+  - Creación de módulos de Odoo con Python
 - Programación de servicios y prcesos
+  - Programación multihilo y multiproceso
+  - Uso de técnicas seguras de programación
 - Proyecto de desarrolo de aplicaciones multiplataforma
 - Empresa e iniciativa emprendedora
-- Formación en centros de trabajo
+- Formación en el centro de trabajo
 
 Ahora bien, en la lado autodidacta voy a seguir subiendo repositorios y proyectos, ya sea en Java dado que es el lenguaje en el que aprendemos a programar en el curso, o en algún otro como C#, Python, o el que me vea aprendiendo para su uso en un futuro.
 
