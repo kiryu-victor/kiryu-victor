@@ -24,7 +24,7 @@ Also, so you can track my improvements and check what might be applied in every 
   - IP adresses (how they work and subnetting)
   - Network administration on Windows and Linux
 
-### :heavy_check_mark: Second year (ended on 06-2024):
+### :heavy_check_mark: Second year (ended on 06-2025):
 - Databases (DB)
   - Relational DB modeling
   - MySQL and Oracle DB
@@ -90,7 +90,7 @@ Para que podáis seguir el recorrido por el que voy pasando y verificar qué pue
   - Direccionamiento IP
   - Administración de redes Windows y Linux
 
-### :heavy_check_mark: Segundo año (terminado en 06-2024):
+### :heavy_check_mark: Segundo año (terminado en 06-2025):
 - Bases de datos
   - Modelado de DB relacionales
   - MySQL y Oracle DB
